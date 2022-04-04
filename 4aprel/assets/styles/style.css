@@ -1,0 +1,70 @@
+div{
+    margin-left: 20px;
+}
+.add4,.add5{
+    border-left: 2px dashed rgba(0, 0, 0, 0.247);    
+    width: 45%;
+    float: left;
+    padding-left: 15px;
+    
+    margin-left: 20px;
+    
+
+}
+main{
+    width: 100%;
+    overflow: hidden;    
+}
+h3{
+    text-transform: uppercase;
+
+}
+#h3{
+    text-transform: initial;
+    margin: 10px auto 10px;
+}
+.blue{
+    color: deepskyblue;
+    margin-top: 0;
+    padding-bottom: 15px;
+}
+.p1{
+    margin-top: 0;
+}
+.p{
+   padding-top: 15px;
+    padding-bottom: 15px;
+}
+.black{
+    margin-bottom: 0;
+}
+#mail{
+    margin-bottom: 60px;
+    margin-top: 0;
+}
+h1{
+    margin-bottom: 0;
+}
+#it{
+    padding-top: 20px;
+}
+#special{
+    padding-bottom: 0;
+    
+}
+.img{
+    overflow: hidden;
+    
+    
+}
+.add{
+    float: right;
+    padding-top: 50px;
+    margin-right: 65%;
+}
+img{
+    width: 180px;
+    height: 180px;
+    padding: 0 0 0 0;
+    border-radius: 50%;
+}
